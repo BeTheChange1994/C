@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\aronm\OneDrive\Desktop\CT609\Week 6-7 repeat question 1\Week 6-7 repeat question 1\</FILEPATH>
+      <FILENAME>question1.c</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\aronm\OneDrive\Desktop\CT609\Week 6-7 repeat question 1\Week 6-7 repeat question 1\</FILEPATH>
+      <FILENAME>question1.c</FILENAME>
+      <LINE>48</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'sscanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\aronm\OneDrive\Desktop\CT609\Week 6-7 repeat question 1\Week 6-7 repeat question 1\</FILEPATH>
+      <FILENAME>question1.c</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6054</DEFECTCODE>
+    <DESCRIPTION>String 'filename' might not be zero-terminated.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\aronm\OneDrive\Desktop\CT609\Week 6-7 repeat question 1\Week 6-7 repeat question 1\</FILEPATH>
+        <FILENAME>question1.c</FILENAME>
+        <LINE>12</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>This expression may not zero-terminate 'filename'</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\aronm\OneDrive\Desktop\CT609\Week 6-7 repeat question 1\Week 6-7 repeat question 1\</FILEPATH>
+        <FILENAME>question1.c</FILENAME>
+        <LINE>13</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\aronm\OneDrive\Desktop\CT609\Week 6-7 repeat question 1\Week 6-7 repeat question 1\</FILEPATH>
+        <FILENAME>question1.c</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'filePtr==(((void *)0))')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\aronm\OneDrive\Desktop\CT609\Week 6-7 repeat question 1\Week 6-7 repeat question 1\</FILEPATH>
+        <FILENAME>question1.c</FILENAME>
+        <LINE>18</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\aronm\OneDrive\Desktop\CT609\Week 6-7 repeat question 1\Week 6-7 repeat question 1\</FILEPATH>
+        <FILENAME>question1.c</FILENAME>
+        <LINE>19</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'filename' is an Output from 'scanf' (declared at c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdio.h:1276)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\aronm\OneDrive\Desktop\CT609\Week 6-7 repeat question 1\Week 6-7 repeat question 1\</FILEPATH>
+        <FILENAME>question1.c</FILENAME>
+        <LINE>21</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'filename' is an Input to 'fopen' (declared at c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdio.h:213)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\aronm\OneDrive\Desktop\CT609\Week 6-7 repeat question 1\Week 6-7 repeat question 1\</FILEPATH>
+        <FILENAME>question1.c</FILENAME>
+        <LINE>21</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'filename' is required to be zero-terminated by a SAL annotation on 'fopen'</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

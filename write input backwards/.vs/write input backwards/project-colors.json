@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42115486-b8f0-4c8d-bcea-ba0c688515f5": {
+      "ProjectGuid": "42115486-b8f0-4c8d-bcea-ba0c688515f5",
+      "DisplayName": "write input backwards",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

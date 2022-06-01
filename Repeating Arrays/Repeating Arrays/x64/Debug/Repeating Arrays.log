@@ -1,0 +1,4 @@
+﻿  repeatingarrays.c
+C:\Users\aronm\OneDrive\Desktop\CT609\Repeating Arrays\Repeating Arrays\repeatingarrays.c(32,10): warning C4477: 'printf' : format string '%6d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\aronm\OneDrive\Desktop\CT609\Repeating Arrays\Repeating Arrays\repeatingarrays.c(32,10): message : consider using '%zd' in the format string
+  Repeating Arrays.vcxproj -> C:\Users\aronm\OneDrive\Desktop\CT609\Repeating Arrays\x64\Debug\Repeating Arrays.exe

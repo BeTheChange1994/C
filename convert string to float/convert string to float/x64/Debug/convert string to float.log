@@ -1,0 +1,3 @@
+﻿  stringtofloat.c
+C:\Users\aronm\OneDrive\Desktop\CT609\convert string to float\convert string to float\stringtofloat.c(10,6): warning C4013: 'gets' undefined; assuming extern returning int
+  convert string to float.vcxproj -> C:\Users\aronm\OneDrive\Desktop\CT609\convert string to float\x64\Debug\convert string to float.exe

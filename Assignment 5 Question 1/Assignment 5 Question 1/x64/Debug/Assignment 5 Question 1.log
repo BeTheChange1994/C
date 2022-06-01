@@ -1,0 +1,4 @@
+﻿  Question1.c
+C:\Users\aronm\OneDrive\Desktop\CT609\Assignment 5 Question 1\Assignment 5 Question 1\windspeed.h(5,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\aronm\OneDrive\Desktop\CT609\Assignment 5 Question 1\Assignment 5 Question 1\windspeed.h(9,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Assignment 5 Question 1.vcxproj -> C:\Users\aronm\OneDrive\Desktop\CT609\Assignment 5 Question 1\x64\Debug\Assignment 5 Question 1.exe

@@ -1,0 +1,6 @@
+﻿  printfile.c
+C:\Users\aronm\OneDrive\Desktop\CT609\printing a sequential file\printing a sequential file\printfile.c(21,15): warning C4477: 'scanf' : format string '%1f' requires an argument of type 'float *', but variadic argument 3 has type 'double *'
+C:\Users\aronm\OneDrive\Desktop\CT609\printing a sequential file\printing a sequential file\printfile.c(21,15): message : consider using '%lf' in the format string
+C:\Users\aronm\OneDrive\Desktop\CT609\printing a sequential file\printing a sequential file\printfile.c(27,19): warning C4477: 'scanf' : format string '%1f' requires an argument of type 'float *', but variadic argument 3 has type 'double *'
+C:\Users\aronm\OneDrive\Desktop\CT609\printing a sequential file\printing a sequential file\printfile.c(27,19): message : consider using '%lf' in the format string
+  printing a sequential file.vcxproj -> C:\Users\aronm\OneDrive\Desktop\CT609\printing a sequential file\x64\Debug\printing a sequential file.exe

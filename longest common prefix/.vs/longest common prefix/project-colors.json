@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b555fdb1-7e3f-459e-8126-11966c30e904": {
+      "ProjectGuid": "b555fdb1-7e3f-459e-8126-11966c30e904",
+      "DisplayName": "longest common prefix",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

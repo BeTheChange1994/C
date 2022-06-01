@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "45d7fefe-aef0-4c48-9d60-79dd92c107da": {
+      "ProjectGuid": "45d7fefe-aef0-4c48-9d60-79dd92c107da",
+      "DisplayName": "Reading and priting a sequential file",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

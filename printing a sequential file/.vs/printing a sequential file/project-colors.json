@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "920395c1-1f17-4ddf-89d6-36be04e7478a": {
+      "ProjectGuid": "920395c1-1f17-4ddf-89d6-36be04e7478a",
+      "DisplayName": "printing a sequential file",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e662124-d5cd-49e6-9dcf-4111e07b31e1": {
+      "ProjectGuid": "1e662124-d5cd-49e6-9dcf-4111e07b31e1",
+      "DisplayName": "Create a sequential file",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

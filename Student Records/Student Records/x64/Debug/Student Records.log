@@ -1,0 +1,8 @@
+﻿  StudentRecords.c
+C:\Users\aronm\OneDrive\Desktop\CT609\Student Records\Student Records\StudentRecords.c(143,86): warning C4474: 'fprintf' : too many arguments passed for format string
+C:\Users\aronm\OneDrive\Desktop\CT609\Student Records\Student Records\StudentRecords.c(143,86): message : placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+C:\Users\aronm\OneDrive\Desktop\CT609\Student Records\Student Records\StudentRecords.c(152,6): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\aronm\OneDrive\Desktop\CT609\Student Records\Student Records\StudentRecords.c(165,14): warning C4474: 'scanf' : too many arguments passed for format string
+C:\Users\aronm\OneDrive\Desktop\CT609\Student Records\Student Records\StudentRecords.c(165,14): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\aronm\OneDrive\Desktop\CT609\Student Records\Student Records\StudentRecords.c(171,11): warning C4552: '-': result of expression not used
+  Student Records.vcxproj -> C:\Users\aronm\OneDrive\Desktop\CT609\Student Records\x64\Debug\Student Records.exe

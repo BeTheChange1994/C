@@ -1,0 +1,5 @@
+﻿  question1.c
+C:\Users\aronm\OneDrive\Desktop\CT609\Assignment 6-7 Question 1\Assignment 6-7 Question 1\question1.c(23,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+C:\Users\aronm\OneDrive\Desktop\CT609\Assignment 6-7 Question 1\Assignment 6-7 Question 1\question1.c(23,15): warning C4024: 'fgets': different types for formal and actual parameter 1
+C:\Users\aronm\OneDrive\Desktop\CT609\Assignment 6-7 Question 1\Assignment 6-7 Question 1\question1.c(25,10): warning C4013: 'strncpy' undefined; assuming extern returning int
+  Assignment 6-7 Question 1.vcxproj -> C:\Users\aronm\OneDrive\Desktop\CT609\Assignment 6-7 Question 1\x64\Debug\Assignment 6-7 Question 1.exe

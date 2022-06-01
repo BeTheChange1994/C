@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c305aa18-18d5-4db9-b95d-1b7ca3574315": {
+      "ProjectGuid": "c305aa18-18d5-4db9-b95d-1b7ca3574315",
+      "DisplayName": "convert string to float",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

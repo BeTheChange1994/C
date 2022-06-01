@@ -1,0 +1,4 @@
+John Smith,Pfizer,02/08/2021,06/01/1990,None,556679
+Mary Jones,None,None,09/10/1988,Asthma,556677
+Jack Hackett,Moderna,07/06/2021,21/04/1960,None,556676
+Dougal McGuire,None,None,18/04/1986,None,556678

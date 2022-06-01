@@ -1,0 +1,3 @@
+﻿  Vaccines.c
+C:\Users\aronm\OneDrive\Desktop\CT609\Final Exam Repeat\Final Exam Repeat\Vaccines.c(101,32): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 6 has type 'int'
+  Final Exam Repeat.vcxproj -> C:\Users\aronm\OneDrive\Desktop\CT609\Final Exam Repeat\x64\Debug\Final Exam Repeat.exe

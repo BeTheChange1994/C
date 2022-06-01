@@ -1,0 +1,3 @@
+﻿  longest_common_prefix.c
+C:\Users\aronm\OneDrive\Desktop\CT609\longest common prefix\longest common prefix\longest_common_prefix.c(12,6): warning C4013: 'gets' undefined; assuming extern returning int
+  longest common prefix.vcxproj -> C:\Users\aronm\OneDrive\Desktop\CT609\longest common prefix\x64\Debug\longest common prefix.exe

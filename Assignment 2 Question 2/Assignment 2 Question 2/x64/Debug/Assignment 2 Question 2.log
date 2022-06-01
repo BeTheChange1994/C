@@ -1,0 +1,6 @@
+﻿  Question2.c
+C:\Users\aronm\OneDrive\Desktop\CT609\Assignment 2 Question 2\Assignment 2 Question 2\windspeeds.h(5,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\aronm\OneDrive\Desktop\CT609\Assignment 2 Question 2\Assignment 2 Question 2\windspeeds.h(9,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\aronm\OneDrive\Desktop\CT609\Assignment 2 Question 2\Assignment 2 Question 2\Question2.c(46,157): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\aronm\OneDrive\Desktop\CT609\Assignment 2 Question 2\Assignment 2 Question 2\Question2.c(46,157): message : placeholders and their parameters expect 9 variadic arguments, but 10 were provided
+  Assignment 2 Question 2.vcxproj -> C:\Users\aronm\OneDrive\Desktop\CT609\Assignment 2 Question 2\x64\Debug\Assignment 2 Question 2.exe

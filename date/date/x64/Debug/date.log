@@ -1,0 +1,6 @@
+﻿  date.c
+C:\Users\aronm\OneDrive\Desktop\CT609\date\date\date.c(54,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aronm\OneDrive\Desktop\CT609\date\date\date.c(55,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aronm\OneDrive\Desktop\CT609\date\date\date.c(56,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aronm\OneDrive\Desktop\CT609\date\date\date.c(109,21): warning C4101: 'leapyear': unreferenced local variable
+  date.vcxproj -> C:\Users\aronm\OneDrive\Desktop\CT609\date\x64\Debug\date.exe

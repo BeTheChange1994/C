@@ -1,0 +1,3 @@
+﻿  dice.c
+C:\Users\aronm\OneDrive\Desktop\CT609\randomdice\randomdice\dice.c(16,12): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  randomdice.vcxproj -> C:\Users\aronm\OneDrive\Desktop\CT609\randomdice\x64\Debug\randomdice.exe

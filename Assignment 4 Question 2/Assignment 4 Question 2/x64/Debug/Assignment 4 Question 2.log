@@ -1,0 +1,4 @@
+﻿  question2.c
+C:\Users\aronm\OneDrive\Desktop\CT609\Assignment 4 Question 2\Assignment 4 Question 2\question2.c(12,14): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+C:\Users\aronm\OneDrive\Desktop\CT609\Assignment 4 Question 2\Assignment 4 Question 2\question2.c(15,9): warning C4477: 'printf' : format string '%Lf' requires an argument of type 'long double', but variadic argument 1 has type '__int64'
+  Assignment 4 Question 2.vcxproj -> C:\Users\aronm\OneDrive\Desktop\CT609\Assignment 4 Question 2\x64\Debug\Assignment 4 Question 2.exe
